@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Universities>
+  <Address>
+    <UniversityName>CHRIST</UniversityName>
+    <Mailid>christ@gamil.com</Mailid>
+    <Area>Hosur road</Area>
+    <Phoneno>9005338312</Phoneno>
+  </Address>
+  <Address>
+    <UniversityName>JAIN</UniversityName>
+    <Mailid>jain@gamil.com</Mailid>
+    <Area>Jaynagar</Area>
+    <Phoneno>9014777754</Phoneno>
+  </Address>
+  <Address>
+    <UniversityName>SIKSHA</UniversityName>
+    <Mailid>siksha@gamil.com</Mailid>
+    <Area>Vivekananda nagar</Area>
+    <Phoneno>7525424242</Phoneno>
+  </Address>
+  <Address>
+    <UniversityName>DAYANAND</UniversityName>
+    <Mailid>dayanand@gamil.com</Mailid>
+    <Area>Basvangudi</Area>
+    <Phoneno>7852522233</Phoneno>
+  </Address>
+  <Address>
+    <UniversityName>OXFORD.</UniversityName>
+    <Mailid>oxford@gamil.com</Mailid>
+    <Area>Bhanshankari</Area>
+    <Phoneno>8202112226</Phoneno>
+  </Address>
+  <Address>
+    <UniversityName>PES.</UniversityName>
+    <Mailid>pes@gamil.com</Mailid>
+    <Area>Ringroad</Area>
+    <Phoneno>9214232321</Phoneno>
+  </Address>
+  <Address>
+    <UniversityName>NATIONAL.</UniversityName>
+    <Mailid>national@gamil.com</Mailid>
+    <Area>Basvangudi</Area>
+    <Phoneno>8252525855</Phoneno>
+  </Address>
+  <Address>
+    <UniversityName>BANGALORE.</UniversityName>
+    <Mailid>bangalore@gamil.com</Mailid>
+    <Area>Mysore road</Area>
+    <Phoneno>7542533333</Phoneno>
+  </Address>
+  <Address>
+    <UniversityName>MS RAMAIAH.</UniversityName>
+    <Mailid>msramiah@gamil.com</Mailid>
+    <Area>Basvangudi</Area>
+    <Phoneno>8542522534</Phoneno>
+  </Address>
+  <Address>
+    <UniversityName>INDIAN INSTITUTE</UniversityName>
+    <Mailid>ii@gamil.com</Mailid>
+    <Area>Chamrajpet</Area>
+    <Phoneno>8775755588</Phoneno>
+  </Address>
+  <Address>
+    <UniversityName>REVA</UniversityName>
+    <Mailid>reva@gamil.com</Mailid>
+    <Area>Yelahanka</Area>
+    <Phoneno>7442010214</Phoneno>
+  </Address>
+
+  </Universities>
